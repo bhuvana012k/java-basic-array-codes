@@ -1,6 +1,4 @@
-# java-basic-array-codes
 # Java Array Programs 
-# Java Array Programs
 
 This repository contains basic array programs in Java as part of my Core Java practice.
 
